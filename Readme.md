@@ -44,4 +44,4 @@ Der API-Schlüssel wird über eine `.env`-Datei geladen und ist nicht Teil diese
 
 ## Autor
 
-👉 Mohamed Aoun – Wirtschaftsinformatik-Student
+Mohamed Aoun – Wirtschaftsinformatik-Student
